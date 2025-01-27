@@ -13,3 +13,10 @@ python final.py
 ```
 ___
 
+## Clone
+
+
+```bash
+git clone https://github.com/mery-top/k-means-cluster-Astrosat-Test.git
+```
+___
