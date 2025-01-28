@@ -8,8 +8,17 @@
 
 
 ```bash
+python -m venv venv
 source venv/bin/activate
 python final.py
+```
+___
+
+## Libraries
+
+
+```bash
+pip install numpy matplotlib astropy scipy pandas scikit-learn
 ```
 ___
 
